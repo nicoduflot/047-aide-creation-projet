@@ -9,3 +9,9 @@ les sujets sont vastes et variés, de la modélisation basique des données d'un
 ## Modélisation de données
 
 * [Site e-commerce](./modelisation-e-commerce.md)
+
+## Gestion de composants client
+
+### Paniers enregistrés
+
+* [Sauvegarde de panier](./sauvegarde-de-panier.md)
