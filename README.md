@@ -15,3 +15,7 @@ les sujets sont vastes et variés, de la modélisation basique des données d'un
 ### Paniers enregistrés
 
 * [Sauvegarde de panier](./sauvegarde-de-panier.md)
+
+### SEO - GEO
+
+* [SEO - GEO](/seo-vs-geo-aeo.md)
