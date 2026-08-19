@@ -19,3 +19,9 @@ les sujets sont vastes et variés, de la modélisation basique des données d'un
 ### SEO - GEO
 
 * [SEO - GEO](/seo-vs-geo-aeo.md)
+
+### Présenter son projet
+
+>attention, cette présentation ontient des conseils pour présenter son projet fasse à un jury, les termes ne sont que brievement expliqués, la documentation plus complète sur l'agilité est dispo dans le repository 000-agile)
+
+* [Présentation d'un projet](/presentation-projet.md)
